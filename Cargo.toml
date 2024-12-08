@@ -1,0 +1,10 @@
+[package]
+name = "wgpu_starter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+js_resized_event_channel = "0.3.13"
+pollster = "0.4.0"
+wgpu = "23.0.1"
+winit = "0.30.5"
